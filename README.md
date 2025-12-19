@@ -10,4 +10,4 @@ This tool converts standard 16-bit WAV files into Ubisoft’s LyN **.sns** forma
 
 
 ## Other info
-This tool could possibly be used for other LyN Engine Titles e.g. (Rabbids Travel in Time, Rabbids Land Just Dance 2, Zombie U ect ect. )
+This tool could possibly be used for other LyN Engine Titles e.g. (Rabbids Travel in Time, Rabbids Land, Just Dance 2, Zombie U ect. )
