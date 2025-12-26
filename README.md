@@ -1,4 +1,4 @@
-# Rabbids-Go-Home SNS Audio Converter
+# Rabbids Go Home SNS Audio Converter
 
 This tool converts standard 16-bit WAV files into Ubisoft's LyN **.sns** format.
 
